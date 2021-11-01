@@ -1,0 +1,54 @@
+1635579898299	geckodriver	INFO	Listening on 127.0.0.1:55024
+1635579901366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55025" "-no-remote" "-profile" "C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileraRfhI"
+1635579903889	geckodriver	INFO	Listening on 127.0.0.1:55032
+1635579906948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55033" "-no-remote" "-profile" "C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileGfvqrj"
+1635579917618	Marionette	INFO	Marionette enabled
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 3008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileGfvqrj\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 101: TransactionInactiveError: A request was placed against a transaction which is currently not active, or which is finished.
+DevTools listening on ws://localhost:55033/devtools/browser/21e1a623-1967-4873-bcbd-d28ce6e3ca9f
+1635579934305	Marionette	INFO	Listening on port 55038
+1635579935050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635580119850	Marionette	INFO	Stopped listening on port 55038
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1635580153992	geckodriver	INFO	Listening on 127.0.0.1:55243
+1635580157022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55244" "-no-remote" "-profile" "C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofilefcaXA0"
+1635580157928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofilefcaXA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55244/devtools/browser/11750097-e5dc-424c-b7ff-76ef247ffc62
+1635580165905	Marionette	INFO	Listening on port 55256
+1635580166467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635580171088	Marionette	INFO	Stopped listening on port 55256
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\SAKIB\AppData\Local\Temp\rust_mozprofilefcaXA0\protections.sqlite
+1635580174810	geckodriver	INFO	Listening on 127.0.0.1:55293
+1635580177844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55294" "-no-remote" "-profile" "C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileAh48oj"
+1635580178289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileAh48oj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55294/devtools/browser/bcd0c09a-bd56-4504-ae17-2c29797b44ba
+1635580185673	Marionette	INFO	Listening on port 55299
+1635580186951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635580196111	Marionette	INFO	Stopped listening on port 55299
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1635598336691	geckodriver	INFO	Listening on 127.0.0.1:59874
+1635598339572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59875" "-no-remote" "-profile" "C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileT5i7ib"
+1635598353967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SAKIB\\AppData\\Local\\Temp\\rust_mozprofileT5i7ib\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:59875/devtools/browser/423b9887-360b-40e5-84e5-e54cf79e0c06
+1635598383280	Marionette	INFO	Listening on port 59880
+1635598383958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635598404957	Marionette	INFO	Stopped listening on port 59880
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
